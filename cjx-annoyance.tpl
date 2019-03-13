@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 201903061813
+# Version: 201903130945
 # Title: CJX's Annoyance List
-# Last modified: 2019/03/06 18:13 +0800
+# Last modified: 2019/03/13 09:45 +0800
 # Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -320,7 +320,6 @@ msFilterList
 -d sinaimg.cn /tech/zcapp2018/zcapp.js
 -d 233.com /js/side.htm
 -d soufunimg.com /homepage/new/*/buttomLayer.js
--d tianyancha.com /web-require-js/public/js/util/banner
 -d vuetifyjs.com /notify.json
 -d qhres.com /static/b4f92ac067a4768b/v4/modules/footer.js
 -d daniujiaoyu.com /js/zk
@@ -330,6 +329,7 @@ msFilterList
 -d aoji.cn /static/js/yiliao/ad_common.js
 -d zx123.cn /templates/zx123cs/theme-2015/js/right_xh.js
 #------------------------Specific element hiding rules------------------------#
+# tianyancha.com###banner_web
 # kuaibao.qq.com##.slider-box
 # aoji.cn##.xiaoxi_phone
 # gaodun.com###LRdiv1q
