@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 201903201524
+# Version: 201903211735
 # Title: CJX's Annoyance List
-# Last modified: 2019/03/20 15:24 +0800
+# Last modified: 2019/03/21 17:35 +0800
 # Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -333,7 +333,10 @@ msFilterList
 -d appledaily.hk /banners/subscription/
 -d bilibili.com /x/web-interface/archive/special/recommend?aid=
 #------------------------Specific element hiding rules------------------------#
+# 3d66.com##.layui-layer
+# 3d66.com##.layui-layer-shade
 # jd.com###m_common_tip
+# taobao.com##.J_smartBanner
 # 360kan.com###js-eb-bottomad
 # tianyancha.com###banner_web
 # kuaibao.qq.com##.slider-box
