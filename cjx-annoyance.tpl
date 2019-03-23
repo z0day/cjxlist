@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 201903211735
+# Version: 201903231913
 # Title: CJX's Annoyance List
-# Last modified: 2019/03/21 17:35 +0800
+# Last modified: 2019/03/23 19:13 +0800
 # Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -333,6 +333,10 @@ msFilterList
 -d appledaily.hk /banners/subscription/
 -d bilibili.com /x/web-interface/archive/special/recommend?aid=
 #------------------------Specific element hiding rules------------------------#
+# kankanmi.com##.listnewli
+# epwk.com##.collect-info-icon
+# epwk.com##.collect-info-wrap
+# epwk.com##.head_banner
 # 3d66.com##.layui-layer
 # 3d66.com##.layui-layer-shade
 # jd.com###m_common_tip
@@ -352,7 +356,6 @@ msFilterList
 # csdn.net##.blog_star_enter
 # ganji.com##.footer-b
 # evget.com###popelevencenter
-# xunyingwang.com###bgframe
 # sac.net.cn###ad
 # sac.net.cn###leftDiv
 # sac.net.cn###rightDiv
@@ -921,7 +924,6 @@ msFilterList
 #---------------------------------CSS Whitelist-------------------------------#
 #---------------------------------URL Whitelist-------------------------------#
 +d lancdn.com /landian/public/js/ads.js
-# @@||affyun.com^$generichide
 +d qbox.me /static/js/ads.js
 # @@/adview_pic_$domain=doutula.com|fastadmin.net|xclient.info
 # @@||doub.io^$generichide
