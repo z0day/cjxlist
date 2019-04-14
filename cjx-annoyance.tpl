@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 201904111243
+# Version: 201904132304
 # Title: CJX's Annoyance List
-# Last modified: 2019/04/11 12:43 +0800
+# Last modified: 2019/04/13 23:04 +0800
 # Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -334,6 +334,9 @@ msFilterList
 -d bilibili.com /x/web-interface/archive/special/recommend?aid=
 -d lancdn.com /tmp3/GG_Notice.png
 #------------------------Specific element hiding rules------------------------#
+# gdmm.com###diy3
+# cnblogs.com###div_digg
+# cnblogs.com###xiaociguai
 # nowcoder.com###jsSideTopicList
 # mafengwo.cn###ad1
 # mafengwo.cn###ad2
