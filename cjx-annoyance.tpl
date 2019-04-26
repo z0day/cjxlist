@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 201904191806
+# Version: 201904251713
 # Title: CJX's Annoyance List
-# Last modified: 2019/04/19 18:06 +0800
+# Last modified: 2019/04/25 17:13 +0800
 # Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -79,7 +79,6 @@ msFilterList
 -d 21sq.org /js/downloadbanner.js
 -d 360doc.com /js/index7/mask_index_yc.js
 -d 39.net /PictureLib/A/f76/20160825/org_749281.png
--d 4399.com /jss/skiner
 -d 51credit.com /bbs/js/bbs-end-layer.js
 -d 51cto.com /iframe/get-station-ads
 -d 51liucheng.com /js/dialogLogin.js
@@ -335,6 +334,7 @@ msFilterList
 -d lancdn.com /tmp3/GG_Notice.png
 -d chinaacc.com /upload/*zhongjizhicheng
 #------------------------Specific element hiding rules------------------------#
+# 4399.com###ads1_1
 # xitonghe.com##.sidebar-wx
 # chinaacc.com##.leftBox
 # 58pic.com##.activitySettings-Fixed
@@ -939,6 +939,7 @@ msFilterList
 - baidu.com#?#.rec-item:-abp-has(> .vbox > div > .appad-relate-rectpl)
 #---------------------------------CSS Whitelist-------------------------------#
 #---------------------------------URL Whitelist-------------------------------#
++d th7.cn /sanda2015/css/ads.js
 +d lancdn.com /landian/public/js/ads.js
 +d qbox.me /static/js/ads.js
 # @@/adview_pic_$domain=doutula.com|fastadmin.net|xclient.info
