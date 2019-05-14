@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 201905072155
+# Version: 201905132225
 # Title: CJX's Annoyance List
-# Last modified: 2019/05/07 21:55 +0800
+# Last modified: 2019/05/13 22:25 +0800
 # Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -64,6 +64,7 @@ msFilterList
 - http://tui.cnzz.net
 -d wpa.b.qq.com /cgi/wpa.php?
 - http://zoosnet.net
+- http://zoossoft.cn
 #---------------------------Popups--------------------------------------------#
 #--------------------------Specific blocking filters--------------------------#
 -d 025yimei.com /templets/default/js/swt.js
@@ -334,7 +335,10 @@ msFilterList
 -d chinaacc.com /upload/*zhongjizhicheng
 -d zhangzishi.cc /cdn-cgi/apps/
 -d macx.cn /js/blockadblock.js
+-d bestqikan.com /static/js/swt.js
 #------------------------Specific element hiding rules------------------------#
+# worldve.com###fdkDiv
+# worldve.com###img
 # zybang.com###bottomBannerLink
 # ludashi.com##.div_text
 # ludashi.com##.div_mask
@@ -358,8 +362,6 @@ msFilterList
 # epwk.com##.collect-info-icon
 # epwk.com##.collect-info-wrap
 # epwk.com##.head_banner
-# 3d66.com##.layui-layer
-# 3d66.com##.layui-layer-shade
 # jd.com###m_common_tip
 # taobao.com##.J_smartBanner
 # 360kan.com###js-eb-bottomad
