@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 201905212158
+# Version: 201905302214
 # Title: CJX's Annoyance List
-# Last modified: 2019/05/21 21:58 +0800
+# Last modified: 2019/05/30 22:14 +0800
 # Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -338,6 +338,7 @@ msFilterList
 -d bestqikan.com /static/js/swt.js
 -d book118.com /Public/book118/js/side-customer/customer.js
 #------------------------Specific element hiding rules------------------------#
+# thmz.com###floatdivids
 # soyoung.com###pubWideBanner
 # soyoung.com##.cash_back
 # soyoung.com##.pop_center_box
@@ -974,6 +975,7 @@ msFilterList
 - /v.gif?logtype=
 - /yesky/js/counter/
 - /zcool-analytics.js
+-d zol.com.cn /pvn/
 # ||map.baidu.com^$domain=laosiji.com
 -d laosiji.com /static/js/lib/od_statistics.js
 -d 100bt.com /dc?Url
