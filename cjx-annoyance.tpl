@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 201906211033
+# Version: 201906221346
 # Title: CJX's Annoyance List
-# Last modified: 2019/06/21 10:33 +0800
+# Last modified: 2019/06/22 13:46 +0800
 # Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -1069,7 +1069,6 @@ msFilterList
 -d dianping.com /hippo.gif?
 - http://dig.qbao.com
 -d doc88.com /count.js
-- http://dot.gate.panda.tv
 -d dp3.qq.com /qqcom/
 -d duba.com /static/v2/js/min.pop.js
 - http://dw.xcar.com.cn .gif?
