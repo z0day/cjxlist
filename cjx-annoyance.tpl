@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 201906221346
+# Version: 201906290851
 # Title: CJX's Annoyance List
-# Last modified: 2019/06/22 13:46 +0800
+# Last modified: 2019/06/29 08:51 +0800
 # Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -41,6 +41,7 @@ msFilterList
 # ##.s.u.m.o.me.scrollbox-popup
 # ###pop_hongbao
 #-----------------------------Union&third-party-------------------------------#
+- http://7moor.com
 - http://2005net.net
 - http://3jia5.com
 - http://5251.net
@@ -338,6 +339,7 @@ msFilterList
 -d bestqikan.com /static/js/swt.js
 -d book118.com /Public/book118/js/side-customer/customer.js
 #------------------------Specific element hiding rules------------------------#
+# renren.com###videoAd12
 # weather.com.cn##.tuiguang
 # douyu.com##.video-info-download
 # docer.com##.popup
