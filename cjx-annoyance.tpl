@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 201906302106
+# Version: 201907050907
 # Title: CJX's Annoyance List
-# Last modified: 2019/06/30 21:06 +0800
+# Last modified: 2019/07/05 09:07 +0800
 # Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -341,7 +341,11 @@ msFilterList
 -d 51cto.com /js/activity_pop.js
 -d kuakao.com /index.php?m=content&c=index&a=show_ad
 -d qinxue100.com /qinxue/pc/js/add_js.js
+-d hujiang.com /ciku/getDetailSoftText/
+-d hujiang.com /ciku/getLesson
+-d zbcdn.net /__uvjgyw/slb.default.js
 #------------------------Specific element hiding rules------------------------#
+# 9312.net##.pop-up
 # ifeng.com###qrCode
 # mafengwo.cn###float-pannel-gloable
 # mafengwo.cn###smartGuideFeng
@@ -1215,7 +1219,6 @@ msFilterList
 - http://tingyun.com
 - http://tj.21ic.com
 - http://tjj.com
-- http://tongji.mafengwo.cn
 - http://tongji.xinmin.cn
 - http://track.hujiang.com
 - http://track.uc.cn
