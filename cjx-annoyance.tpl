@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 201907050907
+# Version: 201907242245
 # Title: CJX's Annoyance List
-# Last modified: 2019/07/05 09:07 +0800
+# Last modified: 2019/07/24 22:45 +0800
 # Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -344,6 +344,7 @@ msFilterList
 -d hujiang.com /ciku/getDetailSoftText/
 -d hujiang.com /ciku/getLesson
 -d zbcdn.net /__uvjgyw/slb.default.js
+-d sina.com.cn /other/src/sfc_app_sidebar.js
 #------------------------Specific element hiding rules------------------------#
 # 9312.net##.pop-up
 # ifeng.com###qrCode
