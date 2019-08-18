@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 201908111317
+# Version: 201908181720
 # Title: CJX's Annoyance List
-# Last modified: 2019/08/11 13:17 +0800
+# Last modified: 2019/08/18 17:20 +0800
 # Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -345,7 +345,12 @@ msFilterList
 -d hujiang.com /ciku/getLesson
 -d zbcdn.net /__uvjgyw/slb.default.js
 -d sina.com.cn /other/src/sfc_app_sidebar.js
+-d sinaimg.cn /cj/finance/forex/res/searchCallup.js
+-d tsdm.live /weibo.html
 #------------------------Specific element hiding rules------------------------#
+# acfun.cn##.appguideBox
+# mmbang.com##.footer_adver-warp
+# tsdm.live###ts_sidebar_base
 # sanhao.com###reg-bar
 # lenovo.com.cn##.game-bd
 # gameapp.qq.com##.act-tips
@@ -1321,3 +1326,4 @@ msFilterList
 #---【相关推荐】
 # weibo.com##.apps_PCD_reco_detail_right
 #----------------------------------The End------------------------------------#
+
