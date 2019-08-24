@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 201908181720
+# Version: 201908232048
 # Title: CJX's Annoyance List
-# Last modified: 2019/08/18 17:20 +0800
+# Last modified: 2019/08/23 20:48 +0800
 # Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -358,7 +358,6 @@ msFilterList
 # m.07073.com##.new_heads
 # m.07073.com##.new_heads_bg
 # 9312.net##.pop-up
-# ifeng.com###qrCode
 # mafengwo.cn###float-pannel-gloable
 # mafengwo.cn###smartGuideFeng
 # bigbigwork.com##.pinterestbox
@@ -1326,4 +1325,3 @@ msFilterList
 #---【相关推荐】
 # weibo.com##.apps_PCD_reco_detail_right
 #----------------------------------The End------------------------------------#
-
