@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 201909021846
+# Version: 201909041103
 # Title: CJX's Annoyance List
-# Last modified: 2019/09/02 18:46 +0800
+# Last modified: 2019/09/04 11:03 +0800
 # Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -347,6 +347,7 @@ msFilterList
 -d sina.com.cn /other/src/sfc_app_sidebar.js
 -d sinaimg.cn /cj/finance/forex/res/searchCallup.js
 -d tsdm.live /weibo.html
+-d 28.com /public/js/w3c_float.js
 #------------------------Specific element hiding rules------------------------#
 # guancha.cn##.member_recruit_index
 # line.me###install_line
