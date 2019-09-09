@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 201909041103
+# Version: 201909082215
 # Title: CJX's Annoyance List
-# Last modified: 2019/09/04 11:03 +0800
+# Last modified: 2019/09/08 22:15 +0800
 # Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -348,7 +348,12 @@ msFilterList
 -d sinaimg.cn /cj/finance/forex/res/searchCallup.js
 -d tsdm.live /weibo.html
 -d 28.com /public/js/w3c_float.js
+-d chinaacc.com /upload/js/cia_mjy_pf/
+-d kmf.com /da/do
 #------------------------Specific element hiding rules------------------------#
+# kmf.com##.g-kmf-906banner
+# dujiaoshou.cn###ad1
+# tuwan.com##.Player-zan
 # guancha.cn##.member_recruit_index
 # line.me###install_line
 # aliyun.com##.aliyun-delivery-view-container
