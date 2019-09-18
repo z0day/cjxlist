@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 201909142239
+# Version: 201909182106
 # Title: CJX's Annoyance List
-# Last modified: 2019/09/14 22:39 +0800
+# Last modified: 2019/09/18 21:06 +0800
 # Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 #
 # License: http://creativecommons.org/licenses/by/3.0/
