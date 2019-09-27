@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 201909182106
+# Version: 201909271635
 # Title: CJX's Annoyance List
-# Last modified: 2019/09/18 21:06 +0800
+# Last modified: 2019/09/27 16:35 +0800
 # Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -350,7 +350,10 @@ msFilterList
 -d 28.com /public/js/w3c_float.js
 -d chinaacc.com /upload/js/cia_mjy_pf/
 -d kmf.com /da/do
+-d autohome.com.cn /Topic/RobotVideo?
 #------------------------Specific element hiding rules------------------------#
+# taoguba.com.cn###tbgzInstall
+# taoguba.com.cn###tbgzInstallBG
 # 96weixin.com###lifelong
 # kmf.com##.g-kmf-906banner
 # dujiaoshou.cn###ad1
@@ -999,7 +1002,6 @@ msFilterList
 +d lancdn.com /landian/public/js/ads.js
 +d qbox.me /static/js/ads.js
 # @@/adview_pic_$domain=doutula.com|fastadmin.net|xclient.info
-# @@||doub.io^$generichide
 # @@||fm.ipinyou.$domain=ipinyou.com.cn
 # @@||fm.p0y.cn^$domain=ipinyou.com.cn
 #--------------------------------Tracking Systems-----------------------------#
