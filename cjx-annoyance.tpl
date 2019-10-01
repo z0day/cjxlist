@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 201909271635
+# Version: 201910011311
 # Title: CJX's Annoyance List
-# Last modified: 2019/09/27 16:35 +0800
+# Last modified: 2019/10/01 13:11 +0800
 # Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -859,7 +859,6 @@ msFilterList
 # yidianzixun.com##.layer-download
 # house365.com##.left_fudong_ad
 # xiaoma.com##.leftewm_topa
-# zhidao.baidu.com##.link
 # 17173.com##.list-beauty
 # baixing.com##.listing-fixed-bottom-promo
 # duowan.com##.lolboxapps-qrcode
