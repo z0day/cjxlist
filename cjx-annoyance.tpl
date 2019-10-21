@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 201910011311
+# Version: 201910211745
 # Title: CJX's Annoyance List
-# Last modified: 2019/10/01 13:11 +0800
+# Last modified: 2019/10/21 17:45 +0800
 # Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -154,7 +154,7 @@ msFilterList
 -d gtimg.com /gamezone/2014index/images/600x75.jpg
 -d gtimg.com /pingjs/ext2020/dc2017/dist/m_tips/tips.js
 -d gz-chengkao.com /js/duo.js
--d haha.mx /images/banner/
+-d hahamx.cn /images/banner/
 -d hanjutv.com /public/js/layer/layer.js
 -d hao123img.com /v4/MB/xU/jy/VY/YX/MBxUjyVYYX.js
 -d heiguang.com /_r/2015/js/hrBottomBar.
@@ -352,6 +352,7 @@ msFilterList
 -d kmf.com /da/do
 -d autohome.com.cn /Topic/RobotVideo?
 #------------------------Specific element hiding rules------------------------#
+# firefoxchina.cn##.side-shping
 # taoguba.com.cn###tbgzInstall
 # taoguba.com.cn###tbgzInstallBG
 # 96weixin.com###lifelong
