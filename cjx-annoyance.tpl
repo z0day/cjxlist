@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 201910211745
+# Version: 201910241139
 # Title: CJX's Annoyance List
-# Last modified: 2019/10/21 17:45 +0800
+# Last modified: 2019/10/24 11:39 +0800
 # Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -351,7 +351,13 @@ msFilterList
 -d chinaacc.com /upload/js/cia_mjy_pf/
 -d kmf.com /da/do
 -d autohome.com.cn /Topic/RobotVideo?
+-d daiyanbao.com /flash/md
+-d banzou.name /qq/qq2.js
 #------------------------Specific element hiding rules------------------------#
+# banzou.name###ads_1
+# banzou.name###ads_2
+# banzou.name###appfu
+# banzou.name###daiyan
 # firefoxchina.cn##.side-shping
 # taoguba.com.cn###tbgzInstall
 # taoguba.com.cn###tbgzInstallBG
@@ -410,7 +416,6 @@ msFilterList
 # taobao.com##.rb-op
 # eastday.com##.drain_app
 # pconline.com.cn###JnoLoginFixedBottom
-# hao123.com###bottom-be
 # kankanmi.com##.listnewli
 # epwk.com##.collect-info-icon
 # epwk.com##.collect-info-wrap
