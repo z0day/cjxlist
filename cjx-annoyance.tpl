@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 201910281035
+# Version: 201910312125
 # Title: CJX's Annoyance List
-# Last modified: 2019/10/28 10:35 +0800
+# Last modified: 2019/10/31 21:25 +0800
 # Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -353,7 +353,9 @@ msFilterList
 -d autohome.com.cn /Topic/RobotVideo?
 -d daiyanbao.com /flash/md
 -d banzou.name /qq/qq2.js
+-d baidu.com /se/static/wiseatom/banner/pack_
 #------------------------Specific element hiding rules------------------------#
+# 100bt.com##.aolasidebar__ad1
 # bitauto.com###dyAdv
 # banzou.name###ads_1
 # banzou.name###ads_2
