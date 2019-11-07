@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 201911051813
+# Version: 201911070959
 # Title: CJX's Annoyance List
-# Last modified: 2019/11/05 18:13 +0800
+# Last modified: 2019/11/07 09:59 +0800
 # Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -355,6 +355,8 @@ msFilterList
 -d banzou.name /qq/qq2.js
 -d baidu.com /se/static/wiseatom/banner/pack_
 #------------------------Specific element hiding rules------------------------#
+# ruten.com.tw##.act-promo
+# pconline.com.cn##.twentieth
 # infoq.cn##.geo-banner
 # 100bt.com##.aolasidebar__ad1
 # bitauto.com###dyAdv
