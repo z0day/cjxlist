@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 201912071705
+# Version: 201912080912
 # Title: CJX's Annoyance List
-# Last modified: 2019/12/07 17:05 +0800
+# Last modified: 2019/12/08 09:12 +0800
 # Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -672,7 +672,7 @@ msFilterList
 # wbiao.cn###popupImgCorner
 # acfun.cn###prompt-box
 # infoq.com###psa-note
-# 360.cn###pushbar-festival
+# hao.360.com###pushbar-festival
 # 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###questionnaire_bg
 # 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###questionnaire_contianer
 # blog.163.com###r_m163news
@@ -690,7 +690,7 @@ msFilterList
 # wasu.cn###scan_qrcode
 # po.baidu.com###shareBoxBlank
 # xcar.com.cn###show_car
-# 360.cn###sidebar
+# hao.360.com###sidebar
 # hao123.com###slidetoolbarContainer
 # suning.com###sn-sidebar-change-code
 # haosou.com###so_feb
