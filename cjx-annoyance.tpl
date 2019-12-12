@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 201912080912
+# Version: 201912121331
 # Title: CJX's Annoyance List
-# Last modified: 2019/12/08 09:12 +0800
+# Last modified: 2019/12/12 13:31 +0800
 # Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -361,7 +361,10 @@ msFilterList
 -d 51offer.com /pageData/getDataByModuleIdandKey.html?leadkey=adList&
 -d chinalawedu.com /js/weixin/weixin.js
 -d chinalawedu.com /js/zxkf.js
+-d baidu.com /xpage/form/getform?id=wk_pc_skin
+-d bdimg.com /popOperationView_*.js
 #------------------------Specific element hiding rules------------------------#
+# baidu.com##.guidetowkOperationwg-root
 # hamibook.com.tw##.custom-banners-cycle-slideshow
 # sina.com.cn##.pc-tui-coupon
 # 360doc.com###btn_freeread
@@ -1051,6 +1054,7 @@ msFilterList
 - /v.gif?logtype=
 - /yesky/js/counter/
 - /zcool-analytics.js
+- http://bdp.cn
 - http://126.net analysis
 -d zol.com.cn /pvn/
 # ||map.baidu.com^$domain=laosiji.com
