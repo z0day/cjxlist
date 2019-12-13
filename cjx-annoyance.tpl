@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 201912121331
+# Version: 201912132030
 # Title: CJX's Annoyance List
-# Last modified: 2019/12/12 13:31 +0800
+# Last modified: 2019/12/13 20:30 +0800
 # Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -364,6 +364,7 @@ msFilterList
 -d baidu.com /xpage/form/getform?id=wk_pc_skin
 -d bdimg.com /popOperationView_*.js
 #------------------------Specific element hiding rules------------------------#
+# baidu.com###page-copyright > div:nth-of-type(4)
 # baidu.com##.guidetowkOperationwg-root
 # hamibook.com.tw##.custom-banners-cycle-slideshow
 # sina.com.cn##.pc-tui-coupon
