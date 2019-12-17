@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 201912160821
+# Version: 201912171008
 # Title: CJX's Annoyance List
-# Last modified: 2019/12/16 08:21 +0800
+# Last modified: 2019/12/17 10:08 +0800
 # Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -26,6 +26,7 @@ msFilterList
 - /z.zolapp.
 - =Ad_ZPlusGoods&
 #------------------------General element hiding rules-------------------------#
+# ##.siteAnn1
 # ###SOHU_MAIN > .module-cmt-float-bar
 # ###appBottomIn
 # ###appIn
@@ -349,7 +350,6 @@ msFilterList
 -d 28.com /public/js/w3c_float.js
 -d chinaacc.com /upload/js/cia_mjy_pf/
 -d kmf.com /da/do
--d autohome.com.cn /Topic/RobotVideo?
 -d daiyanbao.com /flash/md
 -d banzou.name /qq/qq2.js
 -d baidu.com /se/static/wiseatom/banner/pack_
@@ -363,6 +363,7 @@ msFilterList
 -d baidu.com /xpage/form/getform?id=wk_pc_skin
 -d bdimg.com /popOperationView_*.js
 #------------------------Specific element hiding rules------------------------#
+# zuhaowan.com##.zhw-bottom-ad
 # tmtpost.com##.open-app
 # kuman.com##.guide-download-footer-box
 # baidu.com##.guidetowkOperationwg-root
