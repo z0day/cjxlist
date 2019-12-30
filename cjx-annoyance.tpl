@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 201912171906
+# Version: 201912301648
 # Title: CJX's Annoyance List
-# Last modified: 2019/12/17 19:06 +0800
+# Last modified: 2019/12/30 16:48 +0800
 # Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -362,7 +362,12 @@ msFilterList
 -d chinalawedu.com /js/zxkf.js
 -d baidu.com /xpage/form/getform?id=wk_pc_skin
 -d bdimg.com /popOperationView_*.js
+-d aixifan.com /static/js/appGuide_
 #------------------------Specific element hiding rules------------------------#
+# baidu.com##.icon-bdad
+# 5ewin.com##.erweima
+# 5ewin.com##.jjb-slide
+# mail.126.com,mail.163.com##.gWel-bottom
 # csdn.net##.blog-column-pay
 # zuhaowan.com##.zhw-bottom-ad
 # tmtpost.com##.open-app
@@ -401,7 +406,7 @@ msFilterList
 # guancha.cn##.member_recruit_index
 # line.me###install_line
 # aliyun.com##.aliyun-delivery-view-container
-# acfun.cn##.appguideBox
+# acfun.cn##.app-guide
 # mmbang.com##.footer_adver-warp
 # tsdm.live###ts_sidebar_base
 # sanhao.com###reg-bar
@@ -509,7 +514,6 @@ msFilterList
 # csdn.net##.fourth_column
 # taoguba.com.cn###joinTGB
 # jin10.com##.jin-popularize
-# acfun.cn###appguideBox
 # zglww.net##.tool
 # zhongyiju360.com###bottom-float
 # zhongyiju360.com###bottom-float2
