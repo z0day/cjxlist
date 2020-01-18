@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 202001072151
+# Version: 202001151131
 # Title: CJX's Annoyance List
-# Last modified: 2020/01/07 21:51 +0800
+# Last modified: 2020/01/15 11:31 +0800
 # Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -364,7 +364,11 @@ msFilterList
 -d bdimg.com /popOperationView_*.js
 -d aixifan.com /static/js/appGuide_
 -d icourse163.org /dwr/call/plaincall/CommonBean.obtain.dwr
+-d 3158.cn /min/webim.
+-d 3158.cn /static/js/fixbtm/
 #------------------------Specific element hiding rules------------------------#
+# sogou.com##.recommend-pop
+# sm.cn##.oab-ball-wrap
 # zhidao.baidu.com##.doodle-container
 # baidu.com##.icon-bdad
 # 5ewin.com##.erweima
@@ -1050,7 +1054,7 @@ msFilterList
 # @@||fm.p0y.cn^$domain=ipinyou.com.cn
 #--------------------------------Tracking Systems-----------------------------#
 # .com/js/o.js$domain=qdmm.com|qdwenxue.com|qidian.com
-- /_3jia5_analyser.
+- http://3158.cn _analyser.
 # /analytics.js$domain=qunar.com
 - /cp2.gif?*=qc_
 # /cv/*&uuid=$object-subrequest
@@ -1063,6 +1067,8 @@ msFilterList
 - /v.gif?logtype=
 - /yesky/js/counter/
 - /zcool-analytics.js
+- http://ip.ws.126.net
+- http://optimix.cn
 - http://bdp.cn
 - http://126.net analysis
 -d zol.com.cn /pvn/
