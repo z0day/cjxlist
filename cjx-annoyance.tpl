@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 202001151131
+# Version: 202001252238
 # Title: CJX's Annoyance List
-# Last modified: 2020/01/15 11:31 +0800
+# Last modified: 2020/01/25 22:38 +0800
 # Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -144,7 +144,6 @@ msFilterList
 -d enet.com.cn /counter.php
 -d ettoday.net /style/mobileweb2014/js/smartbanner/jquery.smartbanner.
 -d ettoday.net /style/video-ad/
--d feng.com /index_treasure/
 -d fengbuy.com /recommend-new.
 -d fh21.com.cn /js/passport/createQuickMenu.js
 -d forex.com.cn /index.php/Invoking/tanchukuang
@@ -203,7 +202,6 @@ msFilterList
 # ||koolearn.com/zt/poster_js/$domain=~www.koolearn.com
 -d kuakao.com:6053 /floatcard?
 -d kuwo.cn /static/swf/xctg.swf
--d lab.feng.com /images_new/ad-
 -d lofter.com /blogPhotoAd?
 -d lofter.com /mailEntry.do?blogad
 -d longzhu.com /i/api/videos/dailyRecommend?
@@ -367,6 +365,7 @@ msFilterList
 -d 3158.cn /min/webim.
 -d 3158.cn /static/js/fixbtm/
 #------------------------Specific element hiding rules------------------------#
+# feng.com##.header
 # sogou.com##.recommend-pop
 # sm.cn##.oab-ball-wrap
 # zhidao.baidu.com##.doodle-container
@@ -651,7 +650,7 @@ msFilterList
 # goodcome.com.tw###jad-top
 # dianyingbar.com###jihuaslide
 # douyu.com###js-fix-download
-# douyu.com,douyutv.com###js-live-room-recommend
+# douyu.com###js-live-room-recommend
 # 163.com###js_a_bobo
 # ifeng.com###js_red
 # 0439.com###kanfang
@@ -822,7 +821,6 @@ msFilterList
 # rrjc.com##.coupletbox
 # yahoo.com##.crazyad
 # taoguba.com.cn##.ct_app
-# feng.com##.dd305
 # youdao.com##.dialog-guide-download
 # 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.dialogJ.umoney-promotion-dialog
 # 1111.baidu.com,jump.bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.dialogJmodal
@@ -1026,7 +1024,6 @@ msFilterList
 # wbiao.cn##.wb-panel
 # jrj.com.cn##.wbyy
 # cnbeta.com##.wdj_box
-# feng.com##.wea_d_panel_980
 # hehagame.com##.webad_bottom
 # hehagame.com##.webad_right
 # kdslife.com,pchome.net##.weixin
@@ -1067,7 +1064,8 @@ msFilterList
 - /v.gif?logtype=
 - /yesky/js/counter/
 - /zcool-analytics.js
-- http://ip.ws.126.net
+# ||ip.ws.126.net^$domain=~fxingw.com
+-d dhgxl8qk9zgzr.cloudfront.net /js/log.js
 - http://optimix.cn
 - http://bdp.cn
 - http://126.net analysis
@@ -1167,10 +1165,6 @@ msFilterList
 -d fengniao.com* /pv.js
 -d fjsen.com:81 /mysql/count/
 -d frame.enet.com.cn /a.php
--d ftchinese.com /index.php/jsapi/analytics
--d ftchinese.com /index.php/jsapi/ga
--d ftchinese.com /js/log.js
--d ftchinese.com /log/analytics.js
 -d fx678.com /htcount/count.js
 - http://g.yccdn.com
 -d gridsumdissector.cn /gs.gif?
