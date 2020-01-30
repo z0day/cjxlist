@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 202001252238
+# Version: 202001300854
 # Title: CJX's Annoyance List
-# Last modified: 2020/01/25 22:38 +0800
+# Last modified: 2020/01/30 08:54 +0800
 # Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -12,6 +12,7 @@ msFilterList
 #--------------------------General blocking filters---------------------------#
 - -bobo_recommend_
 - /3dmgamegzh.png
+- =mumumoniqi-piaochuang-
 - /dongaogg/
 - /live800.
 - /loooyu.js
@@ -1064,6 +1065,7 @@ msFilterList
 - /v.gif?logtype=
 - /yesky/js/counter/
 - /zcool-analytics.js
+-d gog.cn /sys/online_calc.js
 # ||ip.ws.126.net^$domain=~fxingw.com
 -d dhgxl8qk9zgzr.cloudfront.net /js/log.js
 - http://optimix.cn
