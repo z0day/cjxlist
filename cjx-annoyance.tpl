@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 202001300854
+# Version: 202002021635
 # Title: CJX's Annoyance List
-# Last modified: 2020/01/30 08:54 +0800
+# Last modified: 2020/02/02 16:35 +0800
 # Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -366,6 +366,8 @@ msFilterList
 -d 3158.cn /min/webim.
 -d 3158.cn /static/js/fixbtm/
 #------------------------Specific element hiding rules------------------------#
+# blog.csdn.net##.t0
+# so.com##.newsfeed-popup
 # feng.com##.header
 # sogou.com##.recommend-pop
 # sm.cn##.oab-ball-wrap
@@ -649,7 +651,6 @@ msFilterList
 # goodcome.com.tw###jad-float
 # goodcome.com.tw###jad-right
 # goodcome.com.tw###jad-top
-# dianyingbar.com###jihuaslide
 # douyu.com###js-fix-download
 # douyu.com###js-live-room-recommend
 # 163.com###js_a_bobo
@@ -770,7 +771,6 @@ msFilterList
 # 8264.com##.advSection__wrapper
 # eastmoney.com##.advertisement
 # cngold.org##.ag_fwindow_ywp
-# dianyingbar.com##.alert_windows
 # jiankang.com##.all_eye
 # tmall.com##.app-download-popup
 # baidu.com##.app-guide
@@ -971,7 +971,6 @@ msFilterList
 # m.babytree.com##.recommend-img-box
 # news.baidu.com##.recommend-mask
 # longzhu.com##.recommend-pop-up
-# dianyingbar.com##.recover
 # oschina.net##.recruitment
 # p2peye.com##.red-box
 # baixing.com##.red-package
@@ -1065,6 +1064,7 @@ msFilterList
 - /v.gif?logtype=
 - /yesky/js/counter/
 - /zcool-analytics.js
+- http://syzjxz2018.cn
 -d gog.cn /sys/online_calc.js
 # ||ip.ws.126.net^$domain=~fxingw.com
 -d dhgxl8qk9zgzr.cloudfront.net /js/log.js
