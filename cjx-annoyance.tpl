@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 202002131851
+# Version: 202002131913
 # Title: CJX's Annoyance List
-# Last modified: 2020/02/13 18:51 +0800
+# Last modified: 2020/02/13 19:13 +0800
 # Homepage: https://github.com/cjx82630/cjxlist
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -1390,7 +1390,4 @@ msFilterList
 #-------------------------------微博评论页面----------------------------------#
 #---【相关推荐】
 # weibo.com##.apps_PCD_reco_detail_right
-#----------------------------------Ublock ------------------------------------#
-# nfmovies.com##+js(nostif, if)
-# nfmovies.com###adleft:style(margin-left:-900px !important;)
 #----------------------------------The End------------------------------------#
