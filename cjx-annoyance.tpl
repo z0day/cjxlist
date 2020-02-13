@@ -1,9 +1,9 @@
 msFilterList
 : Expires=5
-# Version: 202002061240
+# Version: 202002131851
 # Title: CJX's Annoyance List
-# Last modified: 2020/02/06 12:40 +0800
-# Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
+# Last modified: 2020/02/13 18:51 +0800
+# Homepage: https://github.com/cjx82630/cjxlist
 #
 # License: http://creativecommons.org/licenses/by/3.0/
 # Supplement for "EasyList China+EasyList" & "EasyPrivacy"
@@ -367,6 +367,8 @@ msFilterList
 -d 3158.cn /static/js/fixbtm/
 -d house365.com /im_show/imshow.js
 #------------------------Specific element hiding rules------------------------#
+# jinti.com###mei
+# jinti.com##.fix-kefu
 # huanqiu.com##.r-hqFashion
 # house365.com##.home-new-user
 # house365.com##.leftfixed_box
@@ -1388,4 +1390,7 @@ msFilterList
 #-------------------------------微博评论页面----------------------------------#
 #---【相关推荐】
 # weibo.com##.apps_PCD_reco_detail_right
+#----------------------------------Ublock ------------------------------------#
+# nfmovies.com##+js(nostif, if)
+# nfmovies.com###adleft:style(margin-left:-900px !important;)
 #----------------------------------The End------------------------------------#
