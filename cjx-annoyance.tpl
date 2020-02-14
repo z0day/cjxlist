@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 202002131913
+# Version: 202002140805
 # Title: CJX's Annoyance List
-# Last modified: 2020/02/13 19:13 +0800
+# Last modified: 2020/02/14 08:05 +0800
 # Homepage: https://github.com/cjx82630/cjxlist
 #
 # License: http://creativecommons.org/licenses/by/3.0/
