@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202002140805
+! Version: 202002151055
 ! Title: CJX's Annoyance List
-! Last modified: 2020/02/14 08:05 +0800
+! Last modified: 2020/02/15 10:55 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 !
@@ -9,6 +9,7 @@
 ! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
 ! Email (cjxlist@gmail.com)
+!#include cjx-ublock.txt
 !--------------------------General blocking filters---------------------------!
 -bobo_recommend_
 /3dmgamegzh.png
@@ -368,6 +369,9 @@
 ||3158.cn/static/js/fixbtm/
 ||house365.com/im_show/imshow.js
 !------------------------Specific element hiding rules------------------------!
+ifeng.com##DIV[class^="enquiry_bottom"]
+ifeng.com##div[class^="bottom_box"]
+ifeng.com##div[class^="bottomSlide"]
 jinti.com###mei
 jinti.com##.fix-kefu
 huanqiu.com##.r-hqFashion
