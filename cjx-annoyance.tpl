@@ -1,14 +1,15 @@
 msFilterList
 : Expires=5
-# Version: 202002140805
+# Version: 202002151055
 # Title: CJX's Annoyance List
-# Last modified: 2020/02/14 08:05 +0800
+# Last modified: 2020/02/15 10:55 +0800
 # Homepage: https://github.com/cjx82630/cjxlist
 #
 # License: http://creativecommons.org/licenses/by/3.0/
 # Supplement for "EasyList China+EasyList" & "EasyPrivacy"
 # Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
 # Email (cjxlist@gmail.com)
+##include cjx-ublock.txt
 #--------------------------General blocking filters---------------------------#
 - -bobo_recommend_
 - /3dmgamegzh.png
