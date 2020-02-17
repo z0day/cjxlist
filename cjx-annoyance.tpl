@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 202002151055
+# Version: 202002171052
 # Title: CJX's Annoyance List
-# Last modified: 2020/02/15 10:55 +0800
+# Last modified: 2020/02/17 10:52 +0800
 # Homepage: https://github.com/cjx82630/cjxlist
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -28,6 +28,8 @@ msFilterList
 - /z.zolapp.
 - =Ad_ZPlusGoods&
 #------------------------General element hiding rules-------------------------#
+# ###doyoo_mon_mask
+# ###doyoo_monitor
 # ##.siteAnn1
 # ###SOHU_MAIN > .module-cmt-float-bar
 # ###appBottomIn
@@ -310,7 +312,6 @@ msFilterList
 -d med66.com /lamu/
 -d 51cto.com /edu/blog/*box.js
 -d taisha.org /statics/js/pc2.0/common/form.bottom.
--d sohu.com /os/text/focus?
 -d autoimg.cn /club/v1Content/images/heycar
 -d china.cn /js/common/daniel_pop/
 -d chinaacc.com /lamu/*dl-
@@ -368,6 +369,7 @@ msFilterList
 -d 3158.cn /static/js/fixbtm/
 -d house365.com /im_show/imshow.js
 #------------------------Specific element hiding rules------------------------#
+# hanjutv.com###widget-weixin
 # jinti.com###mei
 # jinti.com##.fix-kefu
 # huanqiu.com##.r-hqFashion
