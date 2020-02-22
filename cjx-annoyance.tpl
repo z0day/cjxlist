@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 202002171052
+# Version: 202002202235
 # Title: CJX's Annoyance List
-# Last modified: 2020/02/17 10:52 +0800
+# Last modified: 2020/02/20 22:35 +0800
 # Homepage: https://github.com/cjx82630/cjxlist
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -11,6 +11,7 @@ msFilterList
 # Email (cjxlist@gmail.com)
 ##include cjx-ublock.txt
 #--------------------------General blocking filters---------------------------#
+- /wiseatom/banner/pack_
 - -bobo_recommend_
 - /3dmgamegzh.png
 - =mumumoniqi-piaochuang-
@@ -353,7 +354,6 @@ msFilterList
 -d kmf.com /da/do
 -d daiyanbao.com /flash/md
 -d banzou.name /qq/qq2.js
--d baidu.com /se/static/wiseatom/banner/pack_
 -d 5888.tv /Js/topBanner.js
 -d dfcfw.com /zndh/
 -d jsdelivr.net /npm/live2d-
@@ -363,12 +363,16 @@ msFilterList
 -d chinalawedu.com /js/zxkf.js
 -d baidu.com /xpage/form/getform?id=wk_pc_skin
 -d bdimg.com /popOperationView_*.js
--d aixifan.com /static/js/appGuide_
+-d aixifan.com /static/*/appGuide/
 -d icourse163.org /dwr/call/plaincall/CommonBean.obtain.dwr
 -d 3158.cn /min/webim.
 -d 3158.cn /static/js/fixbtm/
 -d house365.com /im_show/imshow.js
 #------------------------Specific element hiding rules------------------------#
+# jiemian.com##.app-open
+# znds.com###diy_mobanbus_view_right2
+# meijuxingqiu.com##.fixed-bottom-bar
+# iqiyi.com##.m-hotWords-bottom
 # hanjutv.com###widget-weixin
 # jinti.com###mei
 # jinti.com##.fix-kefu
