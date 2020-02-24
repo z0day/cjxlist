@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 202002202235
+# Version: 202002241436
 # Title: CJX's Annoyance List
-# Last modified: 2020/02/20 22:35 +0800
+# Last modified: 2020/02/24 14:36 +0800
 # Homepage: https://github.com/cjx82630/cjxlist
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -369,6 +369,8 @@ msFilterList
 -d 3158.cn /static/js/fixbtm/
 -d house365.com /im_show/imshow.js
 #------------------------Specific element hiding rules------------------------#
+# gitee.com##.register-guide
+# gamer.com.tw##.goAPP
 # jiemian.com##.app-open
 # znds.com###diy_mobanbus_view_right2
 # meijuxingqiu.com##.fixed-bottom-bar
