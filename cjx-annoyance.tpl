@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 202003011808
+# Version: 202003012105
 # Title: CJX's Annoyance List
-# Last modified: 2020/03/01 18:08 +0800
+# Last modified: 2020/03/01 21:05 +0800
 # Homepage: https://github.com/cjx82630/cjxlist
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -370,6 +370,9 @@ msFilterList
 -d house365.com /im_show/imshow.js
 -d qixin007.com /webbanner/
 -d gamersky.com /wap/js/gs/gsAllOpenAppBtn.
+-d meiju22.com /new/Public/gg.js
+-d heibaizhibo.com /_nuxt/87a5efd04908651591f7.js
+-d ymlykj.com /nuxt/static/liveBanner.jpg
 #------------------------Specific element hiding rules------------------------#
 # zybang.com##.question-below-text
 # zybang.com##.related-question-below-text
