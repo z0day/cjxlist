@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 202003041822
+# Version: 202003051348
 # Title: CJX's Annoyance List
-# Last modified: 2020/03/04 18:22 +0800
+# Last modified: 2020/03/05 13:48 +0800
 # Homepage: https://github.com/cjx82630/cjxlist
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -1093,6 +1093,7 @@ msFilterList
 - /v.gif?logtype=
 - /yesky/js/counter/
 - /zcool-analytics.js
+- http://count.nuanyuehanxing.com
 -d pconline.com.cn /ipJson.
 - http://develenv.com
 - http://syzjxz2018.cn
