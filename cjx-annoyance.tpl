@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 202003112033
+# Version: 202003130748
 # Title: CJX's Annoyance List
-# Last modified: 2020/03/11 20:33 +0800
+# Last modified: 2020/03/13 07:48 +0800
 # Homepage: https://github.com/cjx82630/cjxlist
 #
 # License: http://creativecommons.org/licenses/by/3.0/
@@ -377,6 +377,7 @@ msFilterList
 -d jin10.com /news_service/static/config/details.config.
 -d jmw.com.cn /m_v2/js/active.js
 -d dyhjw.com /Public/v3/appdown/images/AppEntrance.png
+-d chazidian.com /statics/images/wangke.jpg
 #------------------------Specific element hiding rules------------------------#
 # 360game.360.cn##.advertising
 # tobosu.com##.tbs-bottom-order
