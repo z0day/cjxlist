@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 202003180632
+# Version: 202003210819
 # Title: CJX's Annoyance List
-# Last modified: 2020/03/18 06:32 +0800
+# Last modified: 2020/03/21 08:19 +0800
 # Homepage: https://github.com/cjx82630/cjxlist
 #
 # License: https://github.com/cjx82630/cjxlist/blob/master/LICENSE
@@ -384,7 +384,12 @@ msFilterList
 -d cifnews.com /ajax/adrequest/
 -d 7k7k.com /api/position/
 -d 7k7k.com /js/bg-img.js
+-d 6080.tv /public/js/m/uaredirectformobile.js
 #------------------------Specific element hiding rules------------------------#
+# 911cha.com##.adbox
+# 911cha.com##.sideqr
+# 911cha.com##.sideqr_left
+# igo.cn###NewigoBox
 # dapengjiaoyu.com##.toUnfold
 # dapengjiaoyu.com##.upload-app
 # tongzhuo100.com###gold_banner
