@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 202004032330
+# Version: 202004131914
 # Title: CJX's Annoyance List
-# Last modified: 2020/04/03 23:30 +0800
+# Last modified: 2020/04/13 19:14 +0800
 # Homepage: https://github.com/cjx82630/cjxlist
 #
 # License: https://github.com/cjx82630/cjxlist/blob/master/LICENSE
@@ -388,6 +388,7 @@ msFilterList
 -d gliacloud.com /player/adgeek_teep
 -d 365xuet.com /assets/web/js/main.jsr_
 #------------------------Specific element hiding rules------------------------#
+# meijutt.tv###weixin_clos
 # laohu8.com##.top-recommend
 # laohu8.com##.app-button
 # 365xuet.com##.cd-items
@@ -1123,6 +1124,7 @@ msFilterList
 - /v.gif?logtype=
 - /yesky/js/counter/
 - /zcool-analytics.js
+- http://stat.jc001.cn
 - http://ip.tianqiapi.com
 - http://count.nuanyuehanxing.com
 -d pconline.com.cn /ipJson.
