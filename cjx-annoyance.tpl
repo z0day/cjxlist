@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 202004131914
+# Version: 202004162112
 # Title: CJX's Annoyance List
-# Last modified: 2020/04/13 19:14 +0800
+# Last modified: 2020/04/16 21:12 +0800
 # Homepage: https://github.com/cjx82630/cjxlist
 #
 # License: https://github.com/cjx82630/cjxlist/blob/master/LICENSE
@@ -387,7 +387,11 @@ msFilterList
 -d 6080.tv /public/js/m/uaredirectformobile.js
 -d gliacloud.com /player/adgeek_teep
 -d 365xuet.com /assets/web/js/main.jsr_
+-d 17house.com /zt/style/pc/js/zt_
+-d y3600.cc /20
 #------------------------Specific element hiding rules------------------------#
+# ximalaya.com##.dl-pc
+# taptap.com###bottomBanner
 # meijutt.tv###weixin_clos
 # laohu8.com##.top-recommend
 # laohu8.com##.app-button
