@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 202004211805
+# Version: 202004252246
 # Title: CJX's Annoyance List
-# Last modified: 2020/04/21 18:05 +0800
+# Last modified: 2020/04/25 22:46 +0800
 # Homepage: https://github.com/cjx82630/cjxlist
 #
 # License: https://github.com/cjx82630/cjxlist/blob/master/LICENSE
@@ -391,6 +391,8 @@ msFilterList
 -d y3600.cc /20
 -d zupulu.com /scripts/app/app.js
 #------------------------Specific element hiding rules------------------------#
+# ltn.com.tw##.evt.e22
+# epubee.com##.vipNoteBar
 # 58cam.com###append_parent
 # 58cam.com###huyou_nologin
 # ximalaya.com##.dl-pc
