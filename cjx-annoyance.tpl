@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 202004252246
+# Version: 202005051843
 # Title: CJX's Annoyance List
-# Last modified: 2020/04/25 22:46 +0800
+# Last modified: 2020/05/05 18:43 +0800
 # Homepage: https://github.com/cjx82630/cjxlist
 #
 # License: https://github.com/cjx82630/cjxlist/blob/master/LICENSE
@@ -64,6 +64,7 @@ msFilterList
 - http://looyu.com
 - http://lxbjs.baidu.com
 - http://meiqia.com
+- http://miduoke.net
 - http://mylikechat.com
 - http://ntalker.com
 - http://pop800.com
@@ -390,7 +391,14 @@ msFilterList
 -d 17house.com /zt/style/pc/js/zt_
 -d y3600.cc /20
 -d zupulu.com /scripts/app/app.js
+-d yunzhan365.com /resourceFiles/js/weixin-share.js
+-d 127.net /m/*/promPic.jpg
+-d xyj321.com /static/xyj/js/foot_slide_bar_
+-d xyj321.com /static/zx/js/zx-con-jsq_
+-d sinaimg.cn /wap/project/blog_to_news_banner/
 #------------------------Specific element hiding rules------------------------#
+# xyj321.com##.foot_alert_wrap
+# doc88.com##.dk-side-gif
 # ltn.com.tw##.evt.e22
 # epubee.com##.vipNoteBar
 # 58cam.com###append_parent
