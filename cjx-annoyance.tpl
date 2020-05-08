@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 202005071915
+# Version: 202005072312
 # Title: CJX's Annoyance List
-# Last modified: 2020/05/07 19:15 +0800
+# Last modified: 2020/05/07 23:12 +0800
 # Homepage: https://github.com/cjx82630/cjxlist
 #
 # License: https://github.com/cjx82630/cjxlist/blob/master/LICENSE
@@ -396,7 +396,9 @@ msFilterList
 -d xyj321.com /static/xyj/js/foot_slide_bar_
 -d xyj321.com /static/zx/js/zx-con-jsq_
 -d sinaimg.cn /wap/project/blog_to_news_banner/
+-d zikao365.com /upload/js/pfgg/
 #------------------------Specific element hiding rules------------------------#
+# dailiantong.com##.appDwn
 # kankan.com###adv_box
 # kankan.com###modal-adv
 # kankan.com##.tuiguang_position
