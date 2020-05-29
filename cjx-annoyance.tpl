@@ -1,8 +1,8 @@
 msFilterList
 : Expires=5
-# Version: 202005111831
+# Version: 202005271919
 # Title: CJX's Annoyance List
-# Last modified: 2020/05/11 18:31 +0800
+# Last modified: 2020/05/27 19:19 +0800
 # Homepage: https://github.com/cjx82630/cjxlist
 #
 # License: https://github.com/cjx82630/cjxlist/blob/master/LICENSE
@@ -73,6 +73,7 @@ msFilterList
 -d wpa.b.qq.com /cgi/wpa.php?
 - http://zoosnet.net
 - http://zoossoft.cn
+- http://easyliao.com
 #---------------------------Popups--------------------------------------------#
 #--------------------------Specific blocking filters--------------------------#
 -d 025yimei.com /templets/default/js/swt.js
@@ -397,7 +398,12 @@ msFilterList
 -d xyj321.com /static/zx/js/zx-con-jsq_
 -d sinaimg.cn /wap/project/blog_to_news_banner/
 -d zikao365.com /upload/js/pfgg/
+-d gaosan.com /js/b.js
 #------------------------Specific element hiding rules------------------------#
+# edutt.com##.foot-fixed
+# 360kan.com##.eb-rightbox
+# bjx.com.cn##.layer_right2
+# dyhjw.com##.index_luckdraw
 # rrys2019.com###indexNav1
 # acfun.cn##.pause-display
 # examw.com###kefu_in
@@ -1151,6 +1157,7 @@ msFilterList
 - /v.gif?logtype=
 - /yesky/js/counter/
 - /zcool-analytics.js
+-d sogou.com /dr/p1.gif
 - http://stat.jc001.cn
 - http://ip.tianqiapi.com
 - http://count.nuanyuehanxing.com
