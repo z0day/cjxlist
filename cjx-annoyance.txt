@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202005271919
+! Version: 202006162042
 ! Title: CJX's Annoyance List
-! Last modified: 2020/05/27 19:19 +0800
+! Last modified: 2020/06/16 20:42 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
 !
@@ -400,7 +400,22 @@
 ||sinaimg.cn/wap/project/blog_to_news_banner/
 ||zikao365.com/upload/js/pfgg/
 ||gaosan.com/js/b.js
+||igo99.cn/js/freetest.js
+||huobaowang.com/meeting/js/hbchat.
 !------------------------Specific element hiding rules------------------------!
+baidu.com##.app-side-ad
+kanman.com###\5f _acgn-virtual-coin__
+ifeng.com##a[class^="bookrack-"]
+ifeng.com##section[class^="fixSlide-"]
+ifeng.com##div[class^="silde_box-"]
+yun.cn##div[class*="ad-block"]
+pcccp.cn##DIV[id^="xydl"]
+douyu.com##.PrivilegeGiftModalDialog
+igo99.cn##.adBG
+danzhaowang.com##.qxzx_scho
+redocn.com##.big_vip_gg
+redocn.com##.small_vip_gg
+yutu.cn###botfocus-res
 edutt.com##.foot-fixed
 360kan.com##.eb-rightbox
 bjx.com.cn##.layer_right2
@@ -1237,6 +1252,8 @@ m.babytree.com##script + a[class]
 /v.gif?logtype=
 /yesky/js/counter/*
 /zcool-analytics.js
+||tracking.kdnet.net^
+||lnd.com.cn/sys/real_calc.js
 ||sogou.com/dr/p1.gif
 ||stat.jc001.cn^
 ||ip.tianqiapi.com^
